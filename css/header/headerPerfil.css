@@ -1,0 +1,10 @@
+.header--perfil {
+  background-image: url(../../img/perfil.jpg);
+  height: 300px;
+  width: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 50%;
+  background-size: 100% auto;
+}

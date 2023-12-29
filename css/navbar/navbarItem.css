@@ -1,0 +1,14 @@
+.menu--item {
+  list-style: none;
+}
+.menu--item a {
+  display: inline-block;
+  text-decoration: none;
+  color: whitesmoke;
+}
+.menu--item:hover {
+  color: gray;
+}
+.menu--item a:hover {
+  color: darkgray;
+}
